@@ -4,7 +4,7 @@ This program is supposed to guide a user in creating a DnD character with audio 
 
 This program helped me understand the difficulty of audio and file reading in C++.
 
-[Software Demo Video](http://youtube.link.goes.here)
+[Software Demo Video](https://youtu.be/MQtTAABY_3Y)
 
 # Development Environment
 
